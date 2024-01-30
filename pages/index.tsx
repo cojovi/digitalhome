@@ -116,12 +116,12 @@ const HeroSection: React.FC = () => {
               </HStack>
 
               <ButtonGroup spacing={4} alignItems="center">
-                <ButtonLink colorScheme="primary" size="lg" href="/blog">
+                <ButtonLink colorScheme="primary" size="lg" href="https://blog.cojovi.com">
                   Blog
                 </ButtonLink>
                 <ButtonLink
                   size="lg"
-                  href="https://demo.saas-ui.dev"
+                  href="https://cojovi.com"
                   variant="outline"
                   rightIcon={
                     <Icon
