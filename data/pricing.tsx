@@ -7,30 +7,30 @@ export default {
   plans: [
     {
       id: 'oss',
-      title: 'Standard Package:Enchanters Essential',
-      description: 'Basic compoents, perfect to get started.',
-      price: 'TBD',
+      title: 'Basic Web Presence Package',
+      description: 'Basic components, perfect to get started.',
+      price: '$500 - $1,000 setup fee + $125 per month',
       features: [
         {
-          title: '2 Way Text & Email Conversation',
+          title: 'Custom website development (up to 5 pages)',
         },
         {
-          title: 'GMB Messaging',
+          title: 'Basic maintenance and security updates',
         },
         {
-          title: 'Web Chat',
+          title: 'Hosting services',
         },
         {
-          title: 'Reputation Management',
+          title: 'Basic SEO setup',
         },
         {
-          title: 'Facebook Messenger',
+          title: 'Facebook Messenger Integration',
         },
         {
-          title: 'GMB Call Tracking',
+          title: 'Social media integration',
         },
         {
-          title: 'And much more...',
+          title: 'Ideal for: Small businesses or startups needing an online presence',
         },
       ],
       action: {
