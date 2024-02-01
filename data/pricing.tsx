@@ -39,35 +39,35 @@ export default {
     },
     {
       id: 'bootstrap',
-      title: 'Professional Package:Technomancers Tools',
-      description: 'Complete for small teams.',
-      price: 'TBD',
+      title: 'Advanced Business Growth',
+      description: 'For the Business looking to grow.',
+      price: '$1,500 - $3,000 setup fee + $150 - $300 per month',
       isRecommended: true,
       features: [
         {
-          title: 'Calender / Planner',
+          title: 'Custom website development (up to 10 pages)',
         },
         {
-          title: 'CRM',
+          title: 'Option for e-commerce functionality',
         },
         {
-          title: 'Opportunities Webapp',
+          title: 'Premium hosting services',
         },
         {
-          title: 'Email Marketing',
+          title: 'SEO optimization and Google Analytics integration',
         },
         {
-          title: 'Social Media future posting',
+          title: 'Social Media Integration & future posting',
         },
         {
-          title: 'Private discord community',
+          title: 'Email marketing setup and integration',
         },
         {
-          title: '1 year of updates',
+          title: 'CRM integration',
         },
         null,
         {
-          title: 'Private beta access',
+          title: 'Private one on one training',
           iconColor: 'green.500',
         },
       ],
@@ -77,28 +77,25 @@ export default {
     },
     {
       id: 'startup',
-      title: 'Premium Package:Archmages Arsenal',
-      description: 'Unlimited add-ons and support for growing teams.',
-      price: (
-        <HStack>
-          <Text textDecoration="line-through" fontSize="sm" color="gray.400">
-            TBD
-          </Text>
-          <Text>TBD-</Text>
-        </HStack>
+      title: 'Premium Enterprise Solutions',
+      description: 'Tailored for comprehensive automation solutions.',
+      price: $5,000 - $10,000 setup fee + $500 - $1,000 per month
       ),
       features: [
         {
-          title: 'Unlimited projects',
+          title: 'Advanced custom website and web app development',
         },
         {
-          title: 'Campaigns, Blogs, Triggers',
+          title: 'Custom AI solutions for workflow and productivity',
         },
         {
-          title: 'Social Planner',
+          title: 'Comprehensive SEO strategy and analytics',
         },
         {
-          title: 'Forms, Surveys, Memberships, & Funnels',
+          title: 'Complete social media suite and future posting automation',
+        },
+        {
+          title: 'Automation and integration services for internal processes',
         },
         null,
         {
