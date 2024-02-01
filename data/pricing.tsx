@@ -79,7 +79,7 @@ export default {
       id: 'startup',
       title: 'Premium Enterprise Solutions',
       description: 'Tailored for comprehensive automation solutions.',
-      price: $5,000 - $10,000 setup fee + $500 - $1,000 per month
+      price: '$5,000 - $10,000 setup fee + $500 - $1,000 per month',
       ),
       features: [
         {
