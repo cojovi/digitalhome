@@ -5,7 +5,7 @@ export default {
       name: 'Socrates',
       description: 'philosopher',
       avatar:
-        'https://i.imgur.com/wcWC5Cn.png',
+        'https://i.imgur.com/wcWC5Cns.png',
       children: (
         <>
           “In the realm of web design, CojoviDigital stands as a true visionary, 
@@ -19,7 +19,7 @@ export default {
     {
       name: 'Moses',
       description: 'prophet & leader',
-      avatar: 'https://i.imgur.com/oglXpWD.png',
+      avatar: 'https://i.imgur.com/oglXpWDs.png',
       children: (
         <>
           “Like Moses parting the Red Sea, [Your Name] carves a path through the 
@@ -33,7 +33,7 @@ export default {
     {
       name: 'Rick Sanchez',
       description: 'Scientist',
-      avatar: 'https://i.imgur.com/gy27rjC.png',
+      avatar: 'https://i.imgur.com/gy27rjCs.png',
       children: (
         <>
           “Listen up, Morty! CojoviDigital is the Rick Sanchez of web design. He's a 

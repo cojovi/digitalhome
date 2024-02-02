@@ -121,7 +121,7 @@ const HeroSection: React.FC = () => {
                 </ButtonLink>
                 <ButtonLink
                   size="lg"
-                  href="https://cojovi.com"
+                  href="https://blog.cojovi.com/projects"
                   variant="outline"
                   rightIcon={
                     <Icon
@@ -157,7 +157,7 @@ const HeroSection: React.FC = () => {
                   layout="fixed"
                   width={1200}
                   height={762}
-                  alt="Screenshot of a ListPage in Saas UI Pro"
+                  alt="Screenshot of a cojoviDigital at work"
                   quality="75"
                   priority
                 />
@@ -269,7 +269,7 @@ const HighlightsSection = () => {
       <HighlightsTestimonialItem
         name="Cody Viveiros"
         description="The Commander"
-        avatar="/static/images/avatar.jpg"
+        avatar="/static/images/avatar.png"
         gradient={["pink.200", "purple.500"]}
       >
         “At CojoviDigital Webworx, we’re not just tech wizards; we&#39;re your
