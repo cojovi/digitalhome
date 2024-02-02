@@ -10,7 +10,6 @@ export default class MyDocument extends NextDocument {
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           {/* Canonical link for the entire site; consider setting this at the page level instead for accuracy */}
           <link rel="canonical" href="https://www.cojovi.com" />
-          <title>{title}</title>
           <meta name="description" content={description} />
       
           {/* Open Graph */}
