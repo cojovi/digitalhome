@@ -16,7 +16,11 @@ export const SEO = ({ title, description, ...props }: SEOProps) => {
     'bespoke web solutions', 
     'brand elevation', 
     'business process automation', 
-    'artificial intelligence in business'
+    'artificial intelligence in business',
+    'Web development for digital transformation',
+    'Customized app development',
+    'Online presence enhancement',
+    'B2B digital marketing solutions'
   ].join(', ');
 
   return (
@@ -30,7 +34,7 @@ export const SEO = ({ title, description, ...props }: SEOProps) => {
         },
         {
           name: 'publisher',
-          content: 'cojovi', // Site publisher
+          content: 'Cojovi Digital Webworx', // Site publisher
         },
         // ... other meta tags you might need
       ]}

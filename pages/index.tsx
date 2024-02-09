@@ -66,7 +66,7 @@ const Home: NextPage = () => {
     <Box>
       <SEO
         title="Expert Web & App Development | SEO & Digital Marketing Services"
-        description="Cojovi Digital Webworx: Elevate your online presence with our custom web development, app creation, and comprehensive SEO optimization services. Your one-stop solution for coding, programming, and digital marketing excellence."
+        description="Elevate your online presence with Cojovi Digital Webworx's custom web development, app creation, and SEO services. A one-stop solution for digital marketing excellence."
       />
       <Box>
         <HeroSection />
