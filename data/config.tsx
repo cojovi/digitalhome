@@ -9,7 +9,7 @@ const siteConfig = {
   logo: Logo,
   seo: {
     title: 'Cojovi Digital Webworx',
-    description: 'eading provider of custom web development, bespoke sales funnels, and comprehensive digital marketing services tailored to elevate your brand.',
+    description: 'Leading provider of custom web development, bespoke sales funnels, and comprehensive digital marketing services tailored to elevate your brand.',
   } as NextSeoProps,
   termsUrl: '#',
   privacyUrl: '#',
@@ -61,7 +61,7 @@ const siteConfig = {
     ],
   },
   signup: {
-    title: 'Start building with Saas UI',
+    title: 'Start building your empire',
     features: [
       {
         icon: FiCheck,
