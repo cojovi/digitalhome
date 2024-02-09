@@ -10,6 +10,7 @@ const siteConfig = {
   seo: {
     title: 'Cojovi Digital Webworx',
     description: 'Leading provider of custom web development, bespoke sales funnels, and comprehensive digital marketing services tailored to elevate your brand.',
+    keywords: 'web development, digital marketing, sales funnels, custom web design, SEO, branding', // Add your keywords here
   } as NextSeoProps,
   termsUrl: '#',
   privacyUrl: '#',
