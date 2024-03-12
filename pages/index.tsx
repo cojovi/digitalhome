@@ -238,7 +238,7 @@ const HighlightsSection = () => {
           >
             <Box>
               <Text color="yellow.400" display="inline">
-                Contact
+                ContactMe
               </Text>{" "}
               <Text color="cyan.300" display="inline">
                 Cody@cojovi.com
